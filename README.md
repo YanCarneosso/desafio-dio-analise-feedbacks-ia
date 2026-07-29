@@ -162,11 +162,9 @@ O desafio demonstra como contexto, critérios objetivos, formato fixo e restriç
 ## Como clonar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/desafio-dio-analise-feedbacks-ia.git
+git clone https://github.com/YanCarneosso/desafio-dio-analise-feedbacks-ia.git
 cd desafio-dio-analise-feedbacks-ia
 ```
-
-Substitua `SEU-USUARIO` pelo nome da sua conta no GitHub após publicar o repositório.
 
 ## Entrega do desafio
 
