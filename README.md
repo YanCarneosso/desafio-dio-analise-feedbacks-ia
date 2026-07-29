@@ -50,10 +50,6 @@ flowchart LR
 
 ![Captura dos indicadores e principais temas](assets/capturas/analise-exemplo.png)
 
-### Vitrine publicada
-
-![Captura do repositório público no GitHub](assets/capturas/github-vitrine.png)
-
 ## Problema analisado
 
 Feedbacks escritos livremente são valiosos, mas difíceis de comparar em escala. O projeto propõe uma estrutura que classifica tema, sentimento, urgência e confiança, identifica evidências e converte os achados em recomendações sem inventar informações.
