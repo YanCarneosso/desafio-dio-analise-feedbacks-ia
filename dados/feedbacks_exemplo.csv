@@ -1,0 +1,16 @@
+id_feedback,data,curso,modulo,canal,nota,comentario,status,categoria_informada
+FB001,2026-06-02,Formação Java,Orientação a Objetos,Pesquisa de satisfação,5,"A instrutora explicou os conceitos com clareza e usou exemplos que facilitaram muito o aprendizado.",analisado,didática do instrutor
+FB002,2026-06-03,Bootcamp AWS,Introdução à Computação em Nuvem,Pesquisa de satisfação,2,"Os vídeos mostram uma versão antiga do console e vários menus já mudaram.",novo,conteúdo do curso
+FB003,2026-06-04,Formação Python,Conclusão,Central de ajuda,1,"Concluí todas as atividades há três dias, mas o certificado ainda não foi liberado.",em atendimento,certificado
+FB004,2026-06-05,Bootcamp DevOps,Login e acesso,Fórum,1,"Não consigo entrar na plataforma desde ontem; a página volta para a tela de login.",em atendimento,plataforma
+FB005,2026-06-06,Formação Java,Estruturas de Dados,Pesquisa de satisfação,2,"Os exercícios aumentam de dificuldade muito rápido e faltam exemplos intermediários.",novo,dificuldade técnica
+FB006,2026-06-07,Bootcamp AWS,Redes na AWS,Fórum,2,"A parte sobre tabelas de rotas foi apresentada muito rápido e não entendi como configurar.",novo,conteúdo do curso
+FB007,2026-06-08,Formação Python,Projeto Final,Pesquisa de satisfação,5,"O projeto prático foi excelente para aplicar o conteúdo e montar meu portfólio.",analisado,projeto prático
+FB008,2026-06-09,Bootcamp DevOps,Suporte,Central de ajuda,1,"Abri um chamado sobre o laboratório e só recebi resposta depois de cinco dias.",em atendimento,suporte
+FB009,2026-06-10,Bootcamp AWS,Conteúdos complementares,Pesquisa de satisfação,3,"Seria interessante incluir um módulo introdutório sobre segurança em nuvem.",novo,sugestão
+FB010,2026-06-11,Formação Java,Coleções,Pesquisa de satisfação,3,"Concluí o módulo sem problemas e o conteúdo correspondeu ao que eu esperava.",analisado,conteúdo do curso
+FB011,2026-06-12,Bootcamp DevOps,Cronograma,Pesquisa de satisfação,3,"A trilha está bem organizada, mas o prazo entre os desafios é curto para quem trabalha.",novo,organização do curso
+FB012,2026-06-13,Formação Python,Comunidade,Fórum,4,"As discussões da comunidade ajudaram a resolver dúvidas e compartilhar soluções.",analisado,comunidade
+FB013,2026-06-14,Formação Java,Reprodutor de vídeo,Pesquisa de satisfação,3,"A plataforma é fácil de navegar, porém o vídeo trava e perde o ponto em que parei.",em atendimento,plataforma
+FB014,2026-06-15,Bootcamp AWS,Acessibilidade,Pesquisa de satisfação,5,"As legendas estavam sincronizadas e tornaram as aulas mais acessíveis.",analisado,acessibilidade
+FB015,2026-06-16,Bootcamp DevOps,Projeto com CI/CD,Fórum,2,"A proposta do projeto é boa, mas o link do repositório de apoio está desatualizado.",novo,projeto prático
